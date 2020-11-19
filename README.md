@@ -1,5 +1,6 @@
-# Pong ame
+# Pong: The game
 A desktop computer game using Python.
+
 **Developer: Jess Erhabor**
 
 Adapted from tutorial by [Christian Thompson](http://christianthompson.com/)
